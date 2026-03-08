@@ -18,12 +18,12 @@
 
 ## ✨ About Me
 
-🎓 &nbsp; **B.Sc. Computer Science**
+🎓 &nbsp; **B.Sc. Computer Science**                                         
 💼 &nbsp; Intern at **Nexsofture** — built a full Student Management System  
 🔧 &nbsp; Skilled in **Python, FastAPI, MySQL, REST APIs & JWT Auth**  
 🏗️ &nbsp; Love **layered architecture** and writing clean, maintainable code  
 🌱 &nbsp; Currently exploring **Docker** and **Cloud deployment (AWS)**  
-🟢 &nbsp; **Actively seeking** entry-level backend/fresher roles 
+🟢 &nbsp; **Actively seeking** entry-level backend/fresher roles                  
 📍 &nbsp; Based in **Kanniya Kumari, Tamil Nadu, India**  
 ⚡ &nbsp; Fun fact: I debug better with lo-fi music playing 🎵  
 
