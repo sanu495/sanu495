@@ -1,125 +1,131 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<div align="center">
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Sanoop A</strong>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sanoop%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20FastAPI%20%7C%20Backend%20Engineer&descAlignY=55&descSize=16"/>
 
-<h3>Backend Developer | Python • FastAPI • MySQL • REST APIs</h3>
-
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-  <p>
-    I'm a backend developer passionate about building clean, scalable, and efficient server-side applications.  
-    I specialize in Python and FastAPI, crafting robust REST APIs with secure authentication and well-structured architecture.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:sanoops658@gmail.com"><img src="https://img.shields.io/badge/📧_sanoops658@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Opportunities-1e1e2e?style=for-the-badge" />
-    <a href="https://sanoop-developer.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-1e1e2e?style=for-the-badge" /></a>
-  </p>
-
-<h3>🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://github.com/sanu495">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/sanoop-sanu658/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="mailto:sanoops658@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://sanoop-developer.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
-  <img src="https://komarev.com/ghpvc/?username=sanu495&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
-<br clear="all" />
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Sanoop+A+%F0%9F%91%8B;Python+%26+FastAPI+Backend+Developer;Building+REST+APIs+that+scale+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-## 🛠️ Skills
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
-<br/><br/>
+---
 
-</td>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=fastapi,django" />
-</td>
+### 🧑‍💻 About Me
 
-</tr>
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mysql" />
-<br/><br/>
+```python
+class SanoopA:
+    def __init__(self):
+        self.name       = "Sanoop A"
+        self.role       = "Backend Developer"
+        self.location   = "Trivandrum, Kerala 🇮🇳"
+        self.stack      = ["Python", "FastAPI", "MySQL", "REST APIs"]
+        self.auth       = "JWT Authentication"
+        self.tools      = ["Git", "Postman", "VS Code"]
+        self.status     = "Open to Work 🟢"
 
-</td>
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something awesome.")
+```
 
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</td>
-</tr>
-</table>
-</p>
+<br/>
 
+- 🎓 **B.Sc. Computer Science** graduate
+- 🔭 Building scalable **REST APIs** with Python & FastAPI
+- 🌱 Currently exploring **Docker** and **Cloud deployment**
+- 💡 Passionate about **clean architecture** and **layered design**
+- 🚀 Open to **entry-level / fresher** backend roles
+- 📍 Based in **Technopark, Trivandrum** area
+
+<br clear="all"/>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLModel](https://img.shields.io/badge/SQLModel-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Auth & Security**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
 
 ## 🚀 Featured Project
 
-### 🎓 Student Management System
-> A full-featured REST API built with **FastAPI** and **SQLModel**
+<div align="center">
 
-- 🏗️ Layered architecture (Router → Service → Repository)
-- 🔑 UUID primary keys & full CRUD operations
-- 🔒 JWT Authentication & role-based access
-- 🗄️ MySQL database with clean ORM models
-- 📦 Deployed & documented with Swagger UI
+| 🏫 Student Management System |
+|---|
+| A full-stack REST API built with **Python + FastAPI + SQLModel + MySQL** |
+| Features: JWT Auth, Layered Architecture, CRUD operations |
+| Built during internship at **Nexsofture** (NexSkillup Program) |
+| `Python` `FastAPI` `MySQL` `JWT` `REST API` `Git` |
 
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanu495)
-[![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-4CAF50?style=for-the-badge&logoColor=white)](https://sanoop-developer.vercel.app/)
+</div>
 
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=sanu495&theme=dark&hide_border=true" alt="Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sanu495&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanu495&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanu495&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanu495&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sanu495&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 💼 Experience
+## 🌐 Connect with Me
 
-**Backend Developer Intern** @ [Nexsofture](https://nexsofture.com) *(NexSkillup Program)*
-- Built REST APIs using **Python + FastAPI + MySQL**
-- Implemented **JWT Authentication** for secure access
-- Designed layered architecture for maintainable codebases
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sanoop--developer.vercel.app-0ea5e9?style=for-the-badge)](https://sanoop-developer.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanoop--sanu658-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanoop-sanu658/)
+[![GitHub](https://img.shields.io/badge/GitHub-sanu495-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanu495)
+[![Email](https://img.shields.io/badge/Email-sanoops658@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanoops658@gmail.com)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>Let's connect and build something great together! 🚀</i>
-</p>
+<div align="center">
+
+### 💬 "Code is like humor. When you have to explain it, it's bad." — Cory House
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanu495&style=flat-square&color=58a6ff)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/sanu495?label=Followers&style=flat-square&color=58a6ff)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
