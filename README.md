@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d001a,100:4a0080&height=230&section=header&text=Sanoop%20A&fontSize=62&fontColor=c084fc&animation=twinkling&fontAlignY=38&desc=✦%20Python%20Developer%20%7C%20FastAPI%20%7C%20Backend%20Engineer%20✦&descAlignY=60&descSize=17&fontAlign=50&fontFamily=Poppins&stroke=7c3aed&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0d001a,100:4a0080&height=230&section=header&text=Sanoop%20A&fontSize=62&fontColor=c084fc&animation=twinkling&fontAlignY=38&desc=✦%20Python%20Developer%20%7C%20FastAPI%20%7C%20Backend%20Engineer%20✦&descAlignY=60&descSize=17&fontAlign=50&fontFamily=Poppins"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 🔧 &nbsp; Skilled in **Python · FastAPI · MySQL · REST APIs · JWT Auth**  
 🏗️ &nbsp; Love building with **clean layered architecture** and readable code  
 🌱 &nbsp; Currently exploring **Docker** and **Cloud Deployment (AWS)**  
-📍  &nbsp; Based in **Kanyakumari, Tamil Nadu, India** 🇮🇳  
+📍 &nbsp; Based in **Kanyakumari, Tamil Nadu, India** 🇮🇳  
 🟢 &nbsp; **Actively seeking** entry-level Backend / Fresher roles  
 ⚡ &nbsp; Fun fact: I debug better with lo-fi music playing 🎵
 
@@ -139,30 +139,36 @@
 <div align="center">
 
 <a href="https://sanoop-developer.vercel.app/" target="_blank">
-  <img src="https://img.icons8.com/fluency/80/domain.png" width="65" height="65" alt="Portfolio"/>
+  <img src="https://img.icons8.com/color/48/domain.png" width="42" height="42" alt="Portfolio"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/sanoop-sanu658/" target="_blank">
-  <img src="https://img.icons8.com/fluency/80/linkedin.png" width="65" height="65" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/color/48/linkedin-circled.png" width="42" height="42" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/sanu495" target="_blank">
-  <img src="https://img.icons8.com/fluency/80/github.png" width="65" height="65" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/github--v1.png" width="42" height="42" alt="GitHub"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/__alba_tros__/" target="_blank">
+  <img src="https://img.icons8.com/color/48/instagram-new.png" width="42" height="42" alt="Instagram"/>
+</a>
+&nbsp;&nbsp;
 <a href="mailto:sanoops658@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/fluency/80/gmail-new.png" width="65" height="65" alt="Gmail"/>
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="42" height="42" alt="Gmail"/>
 </a>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20sanoop--developer.vercel.app-c084fc?style=flat-square&labelColor=0a0a0a)](https://sanoop-developer.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-sanoop--developer.vercel.app-c084fc?style=flat-square&labelColor=0a0a0a)](https://sanoop-developer.vercel.app/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/in%2Fsanoop--sanu658-a855f7?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/sanoop-sanu658/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sanoop--sanu658-a855f7?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0a)](https://linkedin.com/in/sanoop-sanu658/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/github.com%2Fsanu495-9333ea?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/sanu495)
+[![GitHub](https://img.shields.io/badge/GitHub-sanu495-9333ea?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0a)](https://github.com/sanu495)
+<br/>
+[![Instagram](https://img.shields.io/badge/Instagram-__alba__tros__-7c3aed?style=flat-square&logo=instagram&logoColor=white&labelColor=0a0a0a)](https://www.instagram.com/__alba_tros__/)
 &nbsp;
-[![Email](https://img.shields.io/badge/sanoops658%40gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:sanoops658@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sanoops658@gmail.com-6d28d9?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a0a)](mailto:sanoops658@gmail.com)
 
 </div>
 
