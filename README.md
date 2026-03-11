@@ -23,7 +23,7 @@
 🔧 &nbsp; Skilled in **Python · FastAPI · MySQL · REST APIs · JWT Auth**  
 🏗️ &nbsp; Love building with **clean layered architecture** and readable code  
 🌱 &nbsp; Currently exploring **Docker** and **Cloud Deployment (AWS)**  
-📍 &nbsp; Based in **Kanyakumari, Tamil Nadu, India** 🇮🇳  
+📍  &nbsp; Based in **Kanyakumari, Tamil Nadu, India** 🇮🇳  
 🟢 &nbsp; **Actively seeking** entry-level Backend / Fresher roles  
 ⚡ &nbsp; Fun fact: I debug better with lo-fi music playing 🎵
 
